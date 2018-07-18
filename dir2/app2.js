@@ -1,2 +1,2 @@
 log.txt
-/log2
+/dir2
